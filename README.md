@@ -1,4 +1,4 @@
 # Challange-01
 It was a challenge from Frontend Mentor.
 
-https://moinulmoin.github.io/Challange-01/
+https://moinulmoin.github.io/Challenge-01/
